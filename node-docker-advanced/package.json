@@ -1,0 +1,15 @@
+{
+  "name": "node-docker-advanced",
+  "version": "1.0.0",
+  "description": "An advanced Dockerized Node.js app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3"
+
+  }
+}
+
